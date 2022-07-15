@@ -4,8 +4,6 @@ My first deployed website!!!!
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on My Website in progress
 - 📫 How to reach me kweezystreams@gmail.com, @KewanSeymour on twitter
-- I can add this to the internet
-- I just want this commit to go through
 
 <!---
 Kweezy01/Kweezy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
